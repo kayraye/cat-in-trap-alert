@@ -1,2 +1,2 @@
 # cat-in-trap-alert
-An animal trap sensor &amp; notification system to alert the trapper that an animal is in the trap
+An animal trap sensor &amp; notification system that sends an alert when trap is occupied
