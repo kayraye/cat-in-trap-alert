@@ -28,7 +28,7 @@ void loop() {
     }
   }
 
-  // ---- Read responses from LoRa ----
+  // ---- Read responses from LoRa ---- i made some edits here
   while (lora.available()) {
     Serial.write(lora.read());
   }
